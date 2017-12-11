@@ -28,7 +28,7 @@ const wrapper = css`
 const left = css`
     ${side};
     padding: 10px 2% 0;
-    width: 46%;   
+    width: 46%;
 `;
 
 const right = css`
